@@ -5,7 +5,7 @@ const menuItems = [
     items: [
       { name: "Latte", description: "Cafea aromată combinată cu lapte aburit. (300ml)", price: "35 MDL", image: "../images/lattee.jpg" },
       { name: "Ciocolată caldă", description: "Băutură fierbinte și dulce, perfectă pentru a-ți încălzi inima. (300ml)", price: "30 MDL", image: "../images/hot chocolatee.jpg" },
-      { name: "Cappuccino", description: "Cafea delicioasă amestecată cu lapte spumos.", price: "30 MDL", image: "../images/cappuccino.jpg" },
+      { name: "Cappuccino", description: "Cafea delicioasă amestecată cu lapte spumos. (200ml)", price: "30 MDL", image: "../images/cappuccino.jpg" },
       { name: "Matcha Latte", description: "Matcha autentică, care îți va îmbogăți gustul pentru băuturi. (180ml)", price: "50 MDL", image: "../images/matcha latte.jpg" },
       { name: "Espresso", description: "Aroma bogată și intensă a cafelei noastre. (30ml)", price: "25 MDL", image: "../images/espresso.jpg" },
       { name: "Americano", description: "O aromă mai delicată decât espresso, potrivită pentru oricine. (120ml)", price: "25 MDL", image: "../images/americano.jpg" },
