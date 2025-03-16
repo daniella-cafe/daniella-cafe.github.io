@@ -4,7 +4,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
     $mesaj = htmlspecialchars($_POST['mesaj']);
 
-    $to = "daniella.cafe24@gamil.com"; 
+    $to = "daniellacafe7@gmail.com"; 
     $subject = "Mesaj nou de pe site";
     $message = "Nume: $nume\nEmail: $email\n\nMesaj:\n$mesaj";
     $headers = "From: $email" . "\r\n" .
